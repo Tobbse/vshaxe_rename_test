@@ -1,0 +1,1 @@
+Run `npm install` first, then build e.g. by opening in VS Code.

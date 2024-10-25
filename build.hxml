@@ -1,0 +1,7 @@
+--times
+-D message-reporting=pretty
+-D js-es=6
+-lib tink_core
+-cp src
+Main
+-js js/Main.js

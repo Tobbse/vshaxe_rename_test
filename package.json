@@ -1,0 +1,9 @@
+{
+	"name": "rename_test",
+	"dependencies": {
+		"lix": "15.12.4"
+	},
+	"scripts": {
+		"build": "haxe build.hxml"
+	}
+}
